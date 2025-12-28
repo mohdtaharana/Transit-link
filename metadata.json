@@ -1,0 +1,8 @@
+
+{
+  "name": "Karachi Transit Link",
+  "description": "A secure, distributed GPS tracking and fleet management system for Karachi's transportation sector, featuring real-time monitoring and fleet asset register.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
