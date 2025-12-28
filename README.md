@@ -1,7 +1,7 @@
 <a href = "taha-rana.vercel.app"></a>
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1oBlJWbG2wFruqsYQNG1K72-Tv7uJHgso
+
 
 ## Run Locally
 
