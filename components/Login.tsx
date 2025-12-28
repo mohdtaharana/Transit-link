@@ -19,11 +19,11 @@ const Login: React.FC<LoginProps> = ({ onLogin }) => {
     setError('');
 
     // Simulated auth logic
-    setTimeout(() => {
-      if (username === 'taharana' && password === 'taha1234') {
+      setTimeout(() => {
+      if (username === 'Fida Hussain Khoso ' && password === 'fida_1923@') {
         onLogin({
           id: 'admin-01',
-          name: 'Taha Rana',
+          name: 'Fida Hussain Khoso ',
           role: 'Admin',
           token: 'khi-secure-token'
         });
